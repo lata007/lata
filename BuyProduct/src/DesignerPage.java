@@ -10,7 +10,7 @@ DesignerPage (FirefoxDriver dr)
  
 void m1()
 {
-	
+	System.out.println();
 }
 
 }
