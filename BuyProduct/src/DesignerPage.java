@@ -8,6 +8,9 @@ DesignerPage (FirefoxDriver dr)
 	this.dr=dr;
 }
  
-
+void m1()
+{
+	
+}
 
 }
